@@ -4,7 +4,7 @@ import java.time.format.DateTimeFormatter;
 /**
  * Клас, що представляє студента.
  */
-class Student {
+public class Student {
     private String lastName;
     private String firstName;
     private String patronymic;
